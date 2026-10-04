@@ -1,0 +1,6 @@
+qiskit>=1.0
+numpy
+scipy
+matplotlib
+pandas
+streamlit
